@@ -1,4 +1,3 @@
 # Hackerrank
 
-Solutions to coding challenges on hackerrank:
-Profile: https://www.hackerrank.com/CavinDsouza16
+Solutions to coding challenges on https://www.hackerrank.com/

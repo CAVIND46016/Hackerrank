@@ -63,6 +63,8 @@ Assume that:
 • No two photos share the same date and time;
 • Each extension is "jpg", “png" or “jpeg”
 """
+
+# https://www.glassdoor.com/Interview/John-likes-to-travel-He-has-visited-a-lot-of-cities-over-many-years-Whenever-he-visits-a-city-he-takes-a-few-photos-and-QTN_1976651.htm
 from datetime import datetime
 import sys
 
